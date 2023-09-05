@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# Business-On-Bot-Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Login:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/1a3f2fc0-0279-43a7-97d0-a2ca474cba61)
+## Register:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/0d6277d8-4b04-40cc-b3c8-61f94f50c40f)
+## Movies:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/1be6cf9b-e343-4906-a85d-6c40aed2b2b6)
+## Seats:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/3f7ee0ff-89c9-4492-83b6-28d42c7e5866)
+## Book now:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/26e46cf4-b238-4b05-8dc7-31e5a8365fa6)
+## Booking:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/2ad1a544-c867-4299-8d7a-aeb69e891d08)
+## Booking history:
+![image](https://github.com/Shruti-cs/Business-On-Bot-Frontend/assets/69308617/69feff58-fb2a-485c-9384-daea893a2261)
